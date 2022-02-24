@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pietro.
-- 👀 I’m interested in Web/App Development.
+- 🎓 I'm a Web Development student at Start2Impact.
 - 🌱 I’m currently learning Javascript.
-- 📫 You can email me at pietro.michelini@gmail.com.
 
 <!---
 pietromichelini/pietromichelini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
