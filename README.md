@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pietro.
-- 🎓 I'm a Web Development student at [Start2Impact](https://talent.start2impact.it/home).
+- 🎓 I'm a Web Development student at [Start2Impact](https://talent.start2impact.it/).
 - 🌱 I’m currently learning Javascript.
 
 <!---
