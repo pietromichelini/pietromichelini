@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pietro
-- 🎓 I'm a Web Development student at [Start2Impact](https://www.start2impact.it/)
-- 🌱 I’m currently learning ReactJS
+- 📦 I've been shipping some stuff [here](https://pietro.codes)
+- 🍕 [Click here to feed me pizza ;)](https://ko-fi.com/feedpietropizza)
 
 <!---
 pietromichelini/pietromichelini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
